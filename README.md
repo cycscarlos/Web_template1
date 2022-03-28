@@ -6,7 +6,7 @@
 
 <br>
 
-### <div style="text-align:center"><h5>...also knows as</h5><span style="color:#ff4c00"><h2> _zCoder!_ </h2></span><h5>at developers social media</h5></div>
+### <div style="text-align:center"><p>...also knows as</p><span><h3 style="color:#ff4c00"> _zCoder!_ </h3></span><p>at developers social media</p></div>
 
 <br>
 
