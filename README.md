@@ -10,7 +10,7 @@
 
 <br>
 
-Take a look at the website link [Github Pages] (https://cycscarlos.github.io/Web_template1):
+Take a look at the website at the following link [Github Pages] (https://cycscarlos.github.io/Web_template1):
 
 <br>
 
