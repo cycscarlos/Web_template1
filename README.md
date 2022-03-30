@@ -1,22 +1,32 @@
-[¡Website banner!](img/readme_banner7.jpg)
-
-## <br>
+![Website banner!](img/readme_banner7.jpg)
 
 <br>
-#Basic and Responsive HTML & CSS website
 
+---
+
+<br>
+
+<h2>Basic and Responsive HTML & CSS website</h2>
+
+<br>
 ---
 
 <br>
 Take a look at the website link [Github Pages] (https://cycscarlos.github.io/Web_template1):
 
+
 ---
 
 <br>
-##Its include:
 
--Background hero image
--Social media icons
--Cards Definitions
--Grid of images
--HTML Form for contact
+<h4>Its include the following features:</h4>
+
+<br>
+
+<ul>
+<li>Background images</li>
+<li>Using CSS animation libraries for hover effects</li>
+<li>Social media icons definitons</li>
+<li>Use of Flexbox & Grid technics</li>
+<li>Responsive design using Media Queries</li>
+</ul>
