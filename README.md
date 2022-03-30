@@ -1,4 +1,4 @@
-![Website banner!](img/readme_banner7.jpg)
+![Website banner!](img/readme7.png)
 
 <br>
 
@@ -9,17 +9,16 @@
 <h2>Basic and Responsive HTML & CSS website</h2>
 
 <br>
----
 
-<br>
 Take a look at the website link [Github Pages] (https://cycscarlos.github.io/Web_template1):
 
+<br>
 
 ---
 
 <br>
 
-<h4>Its include the following features:</h4>
+<h3>Its include the following features:</h3>
 
 <br>
 
