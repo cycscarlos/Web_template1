@@ -1,4 +1,4 @@
-![Website banner!](img/readme7.png)
+<h2>Basic and Responsive HTML & CSS website</h2>
 
 <br>
 
@@ -6,7 +6,7 @@
 
 <br>
 
-<h2>Basic and Responsive HTML & CSS website</h2>
+![Website banner!](img/readme1.png)
 
 <br>
 
